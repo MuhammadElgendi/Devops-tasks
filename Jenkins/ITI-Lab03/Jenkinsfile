@@ -1,0 +1,20 @@
+pipeline {
+    agent any
+    stages {
+        stage('Build') {
+            steps {
+                sh "ls"
+            }
+        }
+        stage('list') {
+            steps {
+                sh "ls"
+            }
+        }
+        stage('post') {
+            steps {
+                sh "echo 'hello world'"
+            }
+        }
+    }
+}
