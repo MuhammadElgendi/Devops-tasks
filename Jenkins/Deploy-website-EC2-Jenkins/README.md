@@ -142,7 +142,8 @@ Run Job on Jenkins:
 
   2. Build Now
 ```
-file:///home/gendi/Downloads/log.png
+![log](https://user-images.githubusercontent.com/107524115/228990919-b21b1796-7f7e-4a05-990b-d650bc812668.png)
+
 
 
 Step 12: 
@@ -152,4 +153,4 @@ Once the job run successfully:
 ```sh
 Go to your browser: PUBLIC_IPv4_ADDRESS:5000
 ```
-file:///home/gendi/Pictures/Screenshots/web.png
+![web](https://user-images.githubusercontent.com/107524115/228990943-d7e988ac-01b2-4d3c-9bd7-23d478af01d9.png)
