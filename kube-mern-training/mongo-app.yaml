@@ -26,7 +26,7 @@ spec:
           - name: MONGO_INITDB_ROOT_PASSWORD
             valueFrom:
               secretKeyRef:
-                name: secrets
+                name: secretshttps://github.com/MuhammadElgendi/Devops-tasks.git
                 key: mongo-password
 ---
 apiVersion: v1
